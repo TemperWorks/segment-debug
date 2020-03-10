@@ -1,6 +1,6 @@
 ## Installation
 
-- `git clone`
+- `git clone https://github.com/TemperWorks/segment-debug.git`
 - `cd segment-debug`
 - `cp .env.example .env`
 - Enter your segment key in the .env file `SEGMENT_KEY=A...B`
